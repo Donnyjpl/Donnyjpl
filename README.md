@@ -1,6 +1,5 @@
 # 👋 Hola, soy @Donnyjpl
 
-## 👀 Me interesa en...
 Soy un **ingeniero en informática** apasionado por el desarrollo web y la tecnología. Me interesan especialmente el trabajo con **Django** y la creación de soluciones innovadoras.
 
 ## 🌱 Actualmente estoy aprendiendo...
