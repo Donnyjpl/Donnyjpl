@@ -19,7 +19,8 @@ Puedes contactarme a través de:
 Me encanta **explorar nuevas tecnologías** y **crear soluciones innovadoras**. Siempre estoy en busca de aprender algo nuevo y mejorar mis habilidades.
 
 ## 🚀 ¿Por qué deberían contratarme?
-Mi enfoque en el desarrollo web con **Django**, combinado con mi experiencia, me permite ofrecer soluciones técnicas robustas y eficientes. 
-Soy un profesional comprometido con la calidad y la mejora continua, y tengo una fuerte pasión por resolver problemas y enfrentar nuevos desafíos. 
-Si buscas a alguien que pueda aportar valor a tu equipo con habilidades técnicas actualizadas y una actitud proactiva, estaré encantado de contribuir a tu éxito.
+Soy un desarrollador web con un enfoque especializado en Django, con una sólida experiencia en la creación de soluciones técnicas robustas y escalables. Mi compromiso con la calidad y la mejora continua me impulsa a entregar resultados excepcionales en cada proyecto. Me apasiona resolver problemas complejos y enfrentar nuevos desafíos, lo que me permite aportar valor significativo a los equipos con los que colaboro.
+
+Con habilidades técnicas actualizadas y una actitud proactiva, estoy preparado para contribuir al éxito de cualquier iniciativa tecnológica.
+
 
