@@ -14,7 +14,7 @@ Si tienes un proyecto interesante, no dudes en contactarme.
 Puedes contactarme a través de:
 -**Telefono:** +56 9543636425
 - **Email:** [donnyjpl@gmail.com](mailto:donnyjpl@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/donni-j-plaza-l]
+- **LinkedIn:** www.linkedin.com/in/donni-j-plaza-l
 
 ## ⚡ Dato curioso:
 Me encanta **explorar nuevas tecnologías** y **crear soluciones innovadoras**. Siempre estoy en busca de aprender algo nuevo y mejorar mis habilidades.
