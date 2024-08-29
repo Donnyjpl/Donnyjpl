@@ -13,7 +13,7 @@ Si tienes un proyecto interesante, no dudes en contactarme.
 ## 📫 Cómo contactarme...
 Puedes contactarme a través de:
 - **Email:** [donnyjpl@gmail.com](mailto:donnyjpl@gmail.com)
-- **LinkedIn:** [linkedin.com/in/donny-plaza-8a4511133](https://linkedin.com/in/donny-plaza-8a4511133)
+- **LinkedIn:** donni-j-plaza-l
 
 ## ⚡ Dato curioso:
 Me encanta **explorar nuevas tecnologías** y **crear soluciones innovadoras**. Siempre estoy en busca de aprender algo nuevo y mejorar mis habilidades.
