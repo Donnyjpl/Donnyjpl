@@ -16,6 +16,9 @@ Puedes contactarme a través de:
 - **Email:** [donnyjpl@gmail.com](mailto:donnyjpl@gmail.com)
 - **LinkedIn:** www.linkedin.com/in/Donni-J-Plaza-L
 
+- 🌐 **Portafolio**  
+Puedes ver mi portafolio en línea en [www.donniplaza.com](https://www.donniplaza.com).
+
 ## ⚡ Dato curioso:
 Me encanta **explorar nuevas tecnologías** y **crear soluciones innovadoras**. Siempre estoy en busca de aprender algo nuevo y mejorar mis habilidades.
 
